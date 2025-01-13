@@ -269,8 +269,8 @@
 
             // Task 9 -- Qazlar ve dovsanlar
             //int together = 64;
-            //int rabLegs = 2;
-            //int gooseLegs = 4;
+            //int rabLegs = 4;
+            //int gooseLegs = 2;
 
             //for (int i = 0; i <= together / 2; i++)
             //{
